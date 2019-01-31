@@ -1,5 +1,5 @@
 # Shembagaraju.github.io
-<body style="background-color:grey">
+<body style="background-color:Mediumseagreen">
 <h1 style="text-align:center"> SHEMBAGA RAJU M </H1>
 <H3 style="text-align:center">Intern at COGNIZANT</h3>
 <hr>
