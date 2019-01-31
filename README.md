@@ -24,7 +24,7 @@ li a:hover {
   background-color:black;
 }
 </style>
-<body style="background-image:url('photo.jpg');">
+<body style="background-color:grey">
 <h1 style="text-align:center"> SHEMBAGA RAJU M </H1>
 <H3 style="text-align:center">Intern at COGNIZANT</h3>
 <hr>
