@@ -1,5 +1,4 @@
 # Shembagaraju.github.io
-<title> GITHUB profile </title>
 <style>
 ul {
   list-style-type: none;
