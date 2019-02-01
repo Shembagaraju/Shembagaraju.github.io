@@ -18,6 +18,7 @@ li a {
   text-align: center;
   padding: 16px;
   text-decoration: none;
+
 }
 
 li a:hover {
@@ -71,7 +72,8 @@ HTML
 <p>The project is about identifying the water theft and water leakage in the pipelines of the water distribution network.
 </p>
 <h5> INTELLIGENT IRRIGATION SYSTEM </h5>
-<p>This project helps the farmers to monitor their fields by using IoT where the climatic conditions of the field can be determined and necessary measures can be taken. 
+<p>This project helps the farmers to monitor their fields by using IoT where the climatic conditions of the field can be determined 
+and necessary measures can be taken. 
 </p><hr>
 <h3 id="certification">Certifications :</h3>
 <p>
