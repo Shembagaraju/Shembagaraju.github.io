@@ -74,7 +74,7 @@ HTML
 </p>
 <h5> INTELLIGENT IRRIGATION SYSTEM </h5>
 <p><pre>This project helps the farmers to monitor their fields by using IoT where the climatic conditions of the field can be determined 
-and necessary measures can be taken bhy them even when they are away from the fields. 
+and necessary measures can be taken by them even when they are away from the fields. 
 </pre></p><hr>
 <h3 id="certification">Certifications :</h3>
 <p>
@@ -88,4 +88,3 @@ Mobile No.: +91-9677447222
 From Coimbatore, Tamil Nadu
 </address>
 <hr>
-</body>
