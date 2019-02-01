@@ -8,6 +8,7 @@
   <li><a href="#education">Education</a></li>
   <li><a href="#skill">Skills</a></li>
   <li><a href="#project">Project</a></li>
+  <li><a href="#certification">Certifications</a></li>
   <li><a href="#contact">Contact</a></li>
 </ul>
 <hr><hr>
@@ -47,6 +48,11 @@ HTML
 <h5> INTELLIGENT IRRIGATION SYSTEM </h5>
 <p>This project helps the farmers to monitor their fields by using IoT where the climatic conditions of the field can be determined and necessary measures can be taken. 
 </p><hr>
+<h3 id="certification">Certifications :</h3>
+<p>
+Certified with a B.A. degree in Hindi by Dakshina Bharat Hindi Prachar Sabha
+Certified with a B2 level certificate in Business English Certification by the Cambridge English Language Assessment Centre
+<hr></p>
 <h3 id="contact">Contact details :</h3>
 <address>
 e-mail id : shembagaraju97@gmail.com
