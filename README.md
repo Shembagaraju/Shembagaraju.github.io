@@ -26,7 +26,7 @@ li a:hover {
 <hr>
 }
 </style>
-<body>
+<body style="background-color:pink">
 <h1 style="text-align:center"> SHEMBAGA RAJU M </H1>
 <H3 style="text-align:center">Intern at COGNIZANT</h3>
 <hr>
